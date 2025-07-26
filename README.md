@@ -20,5 +20,6 @@ It includes a Python-based Jupyter Notebook and a dashboard visualization.
 3. Run all cells to generate predictions and visualizations.
 
 ## 📷 Screenshots
-(Add dashboard images here)
+<img width="1269" height="713" alt="image" src="https://github.com/user-attachments/assets/e7ec6a8a-cf29-49ff-ad6f-b8c473973ee7" />
+
 
